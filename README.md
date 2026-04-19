@@ -214,7 +214,7 @@ Virtual Veda provides a smart and automated solution for monitoring student enga
 ## 👩‍💻 Author
 
 **Thanuja S,K Neha Sree,M Upendranath Reddy**
-@G.Pulla Reddy Engineering College
+**@G.Pulla Reddy Engineering College**
 
 ---
 
